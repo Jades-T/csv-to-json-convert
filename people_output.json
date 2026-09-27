@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Jades",
+    "sport":"football",
+    "town":"Cape Town"
+  },
+  {
+    "name":"Lazola",
+    "sport":"rugby",
+    "town":"East London"
+  },
+  {
+    "name":"Malachi",
+    "sport":"formula-1",
+    "town":"London"
+  },
+  {
+    "name":"Cristiano",
+    "sport":"football",
+    "town":"Lisbon"
+  },
+  {
+    "name":"Mbappe",
+    "sport":"football",
+    "town":"Paris"
+  },
+  {
+    "name":"Verstappen",
+    "sport":"formula-1",
+    "town":"Orange-something-place"
+  }
+]
