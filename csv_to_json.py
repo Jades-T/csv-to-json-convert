@@ -6,6 +6,5 @@ def main():
     dataframe = pd.read_csv("people.csv")
     dataframe.to_json("people_output.json", orient="records", indent=2)
 
-
 if __name__ == '__main__':
     main()
